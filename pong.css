@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  margin-top: 200px;
+}
+#board{
+  background-color: #AADCD1;
+  border-top: 5px solid navy;
+  border-bottom: 5px solid navy;
+}
